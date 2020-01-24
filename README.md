@@ -1,2 +1,2 @@
 # pidestore
-a java project using factory and design patterns
+a java project used factory and design patterns
